@@ -401,4 +401,4 @@ The frontend has zero TypeScript errors (`tsc --noEmit` passes cleanly). All com
 ### What Requires a Real Backend to Work
 The following features show UI in the frontend but need a live backend server to fully function: real JWT authentication, live payment processing (Razorpay), real-time chat (WebSockets), email notifications, push notifications, actual file uploads, and scheduled background jobs (recurring invoices, auto-reminders).
 #   r e t e n t i o - u p d a t e d  
- 
+ # retentio-updated
